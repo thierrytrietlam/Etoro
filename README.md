@@ -7,5 +7,6 @@ Target 1: Track movement in Etoro investors.
 * Pull all information in Etoro including:
     * All symbols
     * Real time positions of investors
+
 Target 2: Analyze markets.
 * Pull data from yfinance to have stock price moves.
