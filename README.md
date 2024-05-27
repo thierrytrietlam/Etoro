@@ -1,7 +1,10 @@
 # Analysis Etoro tickets
 
 ## Pull data from Etoro
-Check [link](https://api-portal.etoro.com/docs/services/5770f74d6361c8154caf902b/operations/579840e06361c81270b70474).
+* Check [link API](https://api-portal.etoro.com/docs/services/5770f74d6361c8154caf902b/operations/579840e06361c81270b70474).
+* Check [Etoro Trading Bot](https://github.com/Gsak3l/EToro-Trading-Bot).
+* Check [finvestor](https://github.com/obendidi/finvestor).
+* Check [etoro-api](https://github.com/ok24601/etoro-api).
 
 Target 1: Track movement in Etoro investors.
 * Settle API with Etoro
